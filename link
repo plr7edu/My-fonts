@@ -1,1 +1,0 @@
-sudo ln -s $HOME/My-Repo/My-fonts/otf/ $HOME/My-Repo/My-fonts/ttc/ $HOME/My-Repo/My-fonts/ttf/ /usr/share/fonts $HOME/My-Repo/My-fonts/sinhala/
